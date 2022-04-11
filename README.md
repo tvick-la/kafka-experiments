@@ -46,3 +46,13 @@ Clean up your topic and start from scratch.
 ```sh
 python delete_topics.py
 ```
+
+## References
+### Configuration of Kafka cluster via Docker
+https://docs.confluent.io/platform/current/installation/docker/config-reference.html
+
+https://github.com/confluentinc/cp-all-in-one/blob/7.1.0-post/cp-all-in-one/docker-compose.yml
+
+https://github.com/confluentinc/cp-demo/blob/7.1.0-post/docker-compose.yml
+
+https://developer.confluent.io/tutorials/kafka-console-consumer-producer-basics/kafka.html
